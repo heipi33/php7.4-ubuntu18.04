@@ -1,4 +1,5 @@
 # php7.4-ubuntu18.04
+shout out to andykimpe for his great PPA
 quite simple,run these code
 ```
 sudo apt -y install software-properties-common
